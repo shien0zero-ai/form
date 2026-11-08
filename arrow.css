@@ -1,0 +1,5 @@
+#output {
+  border: solid 3px gold;
+  padding: 20px 10px;
+  white-space: pre-line;
+}
